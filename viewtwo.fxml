@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controler">
+   <children>
+      <Label layoutX="272.0" layoutY="58.0" text="MIni Project" />
+      <TextField fx:id="text_field_1" layoutX="36.0" layoutY="127.0" prefHeight="26.0" prefWidth="101.0" />
+      <Label layoutX="154.0" layoutY="131.0" text="x^2" />
+      <Label layoutX="185.0" layoutY="131.0" text="+" />
+      <TextField fx:id="text_field_2" layoutX="208.0" layoutY="127.0" prefHeight="26.0" prefWidth="102.0" />
+      <Label layoutX="333.0" layoutY="131.0" text="x" />
+      <Label layoutX="351.0" layoutY="131.0" text="+" />
+      <TextField fx:id="text_field_3" layoutX="377.0" layoutY="127.0" prefHeight="26.0" prefWidth="81.0" />
+      <Label layoutX="466.0" layoutY="132.0" text="=" />
+      <Label layoutX="490.0" layoutY="132.0" text="0" />
+      <Label layoutX="52.0" layoutY="183.0" text="Solution" />
+      <Label fx:id="label_1" layoutX="96.0" layoutY="228.0" text="x_1 " />
+      <Label layoutX="124.0" layoutY="228.0" prefHeight="18.0" prefWidth="121.0" text="=" />
+      <Label fx:id="label_2" layoutX="92.0" layoutY="275.0" text="x_2" />
+      <Label layoutX="124.0" layoutY="275.0" prefHeight="18.0" prefWidth="102.0" text="=" />
+      <Button fx:id="botton_1" layoutX="233.0" layoutY="318.0" mnemonicParsing="false" onAction="#calculate" text="Result" />
+   </children>
+</AnchorPane>
