@@ -25,8 +25,9 @@
          <font>
             <Font size="19.0" />
          </font></Label>
-      <Label fx:id="label_1" layoutX="96.0" layoutY="228.0" text="x_1 " />
-      <Label fx:id="label_2" layoutX="92.0" layoutY="275.0" text="x_2" />
+      <Label fx:id="label_1" layoutX="96.0" layoutY="228.0" text="x_1 =  " />
+      <Label fx:id="label_2" layoutX="92.0" layoutY="275.0" text="x_2 =" />
       <Button fx:id="botton_1" layoutX="233.0" layoutY="318.0" mnemonicParsing="false" onAction="#calculate" text="Result" />
    </children>
+   
 </AnchorPane>
