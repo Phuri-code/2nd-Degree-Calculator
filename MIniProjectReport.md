@@ -1,23 +1,8 @@
-# PROJECT REPORT
+# PROJECT REPORT GROUP-B
 ## Quadratic Equation Calculator using Java OOP and Scene Builder
 
----
 
-# 1. Project Information
-
-**Project Title:** Quadratic Equation Calculator
-
-**Course:** Object-Oriented Programming (OOP)
-
-**Programming Language:** Java
-
-**GUI Framework:** JavaFX with Scene Builder
-
-**Date:** ______________________
-
----
-
-# 2. Team Members
+# 1. Team Members
 
 | No. | Name | Student ID |
 |------|------|------------|
@@ -27,6 +12,18 @@
 | 4 | Member 4 | e20230093 |
 
 ---
+# 2. Project Information
+
+**Project Title:** Quadratic Equation Calculator
+
+**Course:** Object-Oriented Programming (OOP)
+
+**Programming Language:** Java
+
+**GUI Framework:** JavaFX with Scene Builder
+
+---
+
 
 # 3. Task Distribution
 
@@ -38,6 +35,11 @@
 | Member 4 | Testing, debugging, screenshot collection, and documentation |
 
 ---
+
+
+
+
+
 
 # 4. Project Objective
 
